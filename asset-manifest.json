@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0def2a14.css",
+    "main.js": "/react-portfolio/static/js/main.cf151c92.js",
+    "static/media/heroImage.jpeg": "/react-portfolio/static/media/heroImage.4fdb6140b58a4cfa85e5.jpeg",
+    "static/media/gan-vae.jpg": "/react-portfolio/static/media/gan-vae.e6ea92c685b25f2a9b49.jpg",
+    "static/media/gossip.jpg": "/react-portfolio/static/media/gossip.48f7f0c2ea180151a149.jpg",
+    "static/media/glyph.jpg": "/react-portfolio/static/media/glyph.b5aca43853715283e3e9.jpg",
+    "static/media/blind.jpg": "/react-portfolio/static/media/blind.0ee2bb69a4851fe6862c.jpg",
+    "static/media/mysql.png": "/react-portfolio/static/media/mysql.4fe76d0c8c2cd39a2766.png",
+    "static/media/skincancer.jpg": "/react-portfolio/static/media/skincancer.190eab7d496fb019c474.jpg",
+    "static/media/tensorflow.png": "/react-portfolio/static/media/tensorflow.2e600df8bf7dc40e2886.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/react-portfolio/static/media/aws.e42a8e2ee53eff7764e4.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/python.png": "/react-portfolio/static/media/python.448fb2a83595fa5c5c8a.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.0def2a14.css.map": "/react-portfolio/static/css/main.0def2a14.css.map",
+    "main.cf151c92.js.map": "/react-portfolio/static/js/main.cf151c92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0def2a14.css",
+    "static/js/main.cf151c92.js"
+  ]
+}
